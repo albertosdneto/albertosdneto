@@ -1,6 +1,6 @@
 # Alberto Senna Dias Neto  
 **Software Engineer**  
-Python | Vue.js | MongoDB  
+Python | Vue.js | MongoDB | Flutter  
 
 📍 **Teresina, Piauí, Brazil**  
 
@@ -30,7 +30,7 @@ I have had the opportunity and luck to work in different industries:
 
 ### **Anchor Loans LP**  
 **Software Engineer**  
-*November 2020 - Present (4 years 6 months)*  
+*November 2020 - Present*  
 
 #### **Client Portal (Borrower Portal)**  
 - Maintenance of web applications using **JavaScript frameworks** on the frontend and **Python frameworks** on the backend.  
@@ -56,7 +56,7 @@ I have had the opportunity and luck to work in different industries:
 
 ### **Self-employed**  
 **Software Engineer**  
-*June 2020 - Present (4 years 11 months)*  
+*June 2020 - Present*  
 
 #### **Django Project (Maintenance of Legacy Project)**  
 - Maintained a Django project with multiple connected frontends (including a **legacy React app**).  
@@ -94,4 +94,6 @@ I have had the opportunity and luck to work in different industries:
 
 ---
 
-⭐ **Feel free to connect!**  
+⭐ **Feel free to connect!**
+[LinkedIn - Alberto Senna Dias Neto](https://www.linkedin.com/in/albertosdneto)  
+  
