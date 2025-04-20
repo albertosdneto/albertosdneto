@@ -12,7 +12,7 @@ I am also a **Bachelor in Nautical Science** with an emphasis on Engineering.
 I have had the opportunity and luck to work in different industries:  
 - Software Development  
 - Marine Engineering  
-- 4+ years as a Physics Teacher  
+- 4+ years as Teacher  
 
 ---
 
