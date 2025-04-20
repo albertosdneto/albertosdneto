@@ -95,5 +95,7 @@ I have had the opportunity and luck to work in different industries:
 ---
 
 ⭐ **Feel free to connect!**
-[LinkedIn - Alberto Senna Dias Neto](https://www.linkedin.com/in/albertosdneto)  
+
+<a href="https://www.linkedin.com/in/albertosdneto" target="_blank">LinkedIn - Alberto Senna Dias Neto</a>  
+ 
   
